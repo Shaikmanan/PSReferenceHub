@@ -27,7 +27,7 @@ Windows PowerShell (version 5.1 or higher recommended)
 Basic understanding of PowerShell commands and scripting.
 
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed. See the LICENSE file for details https://github.com/Shaikmanan/PSReferenceHub/blob/main/License.txt
 
 Contact
 For questions or suggestions, please contact:
